@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Jackson
 
 ### 👀 About Me
-I'm passionate about **software development** and **machine learning**. My journey in tech has led me to explore various programming languages and technologies, and I’m always eager to learn more.
+I'm passionate about **software development** and **machine learning**.Currently doing final year BSc Information Technology at North-West University,Vanderbijlpark. My journey in tech has led me to explore various programming languages and technologies, and I’m always eager to learn more.
 
 ### 🌱 Currently Learning
 I'm currently diving deep into **HTML**, **CSS**, and **JavaScript** to enhance my front-end development skills. I'm excited about building responsive and interactive web applications.
