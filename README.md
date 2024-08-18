@@ -1,12 +1,31 @@
-- 👋 Hi, I’m @jackson
-- 👀 I’m interested in software development and machine learning
-- 🌱 I’m currently learning HTML,CSS and JAVASCRIPT
-- 💞️ I’m looking to collaborate on any web application development project to gain hands on experience
-- 📫 How to reach me: email-jacksonkhuto591@gmail.com, whatsapp-0661802747
-- 😄 Pronouns:  Pronouns: He/Him
-- ⚡ Fun fact: I enjoy playing the guitar in my free time.
-- 💼 LinkedIn: Connect with me on LinkedIn: https://www.linkedin.com/in/jackson-khuto-625360267/
 
+Here's your improved README.md formatted specifically for GitHub:
+
+markdown
+Copy code
+# 👋 Hi, I'm Jackson
+
+### 👀 About Me
+I'm passionate about **software development** and **machine learning**. My journey in tech has led me to explore various programming languages and technologies, and I’m always eager to learn more.
+
+### 🌱 Currently Learning
+I'm currently diving deep into **HTML**, **CSS**, and **JavaScript** to enhance my front-end development skills. I'm excited about building responsive and interactive web applications.
+
+### 💼 Collaboration
+I'm looking to collaborate on any web application development projects to gain hands-on experience. If you're working on something exciting and need an extra pair of hands, feel free to reach out!
+
+### 📫 How to Reach Me
+- **Email**: jacksonkhuto591@gmail.com
+- **WhatsApp**: +27 661802747
+- **LinkedIn**: [Jackson Khuto](https://www.linkedin.com/in/jackson-khuto-625360267/)
+
+### 😄 Pronouns
+He/Him
+
+### ⚡ Fun Fact
+When I'm not coding, you can find me playing the guitar. Music is my creative outlet and a great way to unwind.
+
+### 🌐 Profile Views
 [![](https://visitcount.itsvg.in/api?id=jackson951&label=Profile%20Views&color=5&pretty=false)](https://visitcount.itsvg.in)
 
 <!---
