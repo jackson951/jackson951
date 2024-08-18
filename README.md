@@ -7,6 +7,13 @@ I'm passionate about **software development** and **machine learning**.Currently
 ### 🌱 Currently Learning
 I'm currently diving deep into **HTML**, **CSS**, and **JavaScript** to enhance my front-end development skills. I'm excited about building responsive and interactive web applications.
 
+### 🛠️ Skills
+- **Programming Languages**: Python,Java,C++ ,JavaScript, C#
+- **Web Development**: HTML, CSS, JavaScript, ASP.NET Core
+- **Machine Learning**: TensorFlow, scikit-learn
+- **Tools & Technologies**: Git, GitHub, Postman, Visual Studio, Azure
+- **Database Management**: SQL Server, MySQL
+
 ### 💼 Collaboration
 I'm looking to collaborate on any web application development projects to gain hands-on experience. If you're working on something exciting and need an extra pair of hands, feel free to reach out!
 
