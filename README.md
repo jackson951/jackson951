@@ -1,8 +1,4 @@
 
-Here's your improved README.md formatted specifically for GitHub:
-
-markdown
-Copy code
 # 👋 Hi, I'm Jackson
 
 ### 👀 About Me
