@@ -12,7 +12,7 @@ I'm currently diving deep into **HTML**, **CSS**, and **JavaScript** to enhance 
 - **Web Development**: HTML, CSS, JavaScript, ASP.NET Core
 - **Machine Learning**: TensorFlow, scikit-learn
 - **Tools & Technologies**: Git, GitHub, Postman, Visual Studio, Azure
-- **Database Management**: SQL Server, MySQL
+- **Database Management**: SQL Server, MySQL, PostgreSQL
 
 ### 💼 Collaboration
 I'm looking to collaborate on any web application development projects to gain hands-on experience. If you're working on something exciting and need an extra pair of hands, feel free to reach out!
