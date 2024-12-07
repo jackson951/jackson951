@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jackson Khuto
 
 ### 👀 About Me
-I'm passionate about **software development** and **machine learning**. Currently pursuing my final year of BSc Information Technology at **North-West University, Vanderbijlpark**. My journey in tech has led me to explore various programming languages and technologies, and I’m always eager to learn more and take on new challenges.
+I'm passionate about **software development** and **machine learning**. BSc Information Technology **Graduate** at **North-West University, Vanderbijlpark**. My journey in tech has led me to explore various programming languages and technologies, and I’m always eager to learn more and take on new challenges.
 
 ---
 
