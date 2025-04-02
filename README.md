@@ -47,7 +47,6 @@ I'm looking for opportunities to collaborate on **web application development pr
 ---
 
 ### 📫 How to Reach Me
-- **Email**: [jacksonkhuto591@gmail.com](mailto:jacksonkhuto591@gmail.com)
 - **WhatsApp**: [+27 661 802 747](https://wa.me/27661802747)
 - **LinkedIn**: [Jackson Khuto](https://www.linkedin.com/in/jackson-khuto-625360267/)
 
