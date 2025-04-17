@@ -1,68 +1,87 @@
-# 👋 Hi, I'm Jackson Khuto
+<h1 align="center">👋 Hi there, I'm Jackson Khuto</h1>
 
-### 👀 About Me
-I'm passionate about **software development** and **machine learning**. BSc Information Technology **Graduate** at **North-West University, Vanderbijlpark**. My journey in tech has led me to explore various programming languages and technologies, and I’m always eager to learn more and take on new challenges.
-
----
-
-### 🌱 Currently Learning
-I'm honing my skills in **HTML**, **CSS**, and **JavaScript** to become a more proficient front-end developer. My focus is on building **responsive** and **interactive** web applications that provide an excellent user experience.
+<p align="center">
+  <i>Software Developer | ML Enthusiast | Lifelong Learner</i>
+</p>
 
 ---
 
-### 🛠️ Skills
+## 👀 About Me
 
-#### 🧑‍💻 Programming Languages
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-- ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-- ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-- ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-
-#### 🌐 Web Development
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-- ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-- ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-#### 🛠️ Tools & Technologies
-- ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-- ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white)
-- ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-- ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=flat-square&logo=azuredevops&logoColor=white)
-
-#### 💾 Database Management
-- ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+🎓 BSc Information Technology Graduate from **North-West University, Vanderbijlpark**  
+💻 Passionate about **Software Development**, **Machine Learning**, and building **scalable web apps**  
+🔍 Always exploring new technologies and taking on exciting challenges
 
 ---
 
-### 💼 Collaboration
-I'm looking for opportunities to collaborate on **web application development projects** and gain hands-on experience. If you're working on something exciting or innovative and need an extra pair of hands, feel free to reach out. I'd love to contribute and learn.
+## 🌱 Currently Learning
+
+I'm sharpening my front-end skills with:
+- **HTML5**, **CSS3**, and **JavaScript**
+- Building **responsive** and **interactive** web applications
+- Enhancing **user experience (UX)** and **UI design principles**
 
 ---
 
-### 📫 How to Reach Me
-- **WhatsApp**: [+27 661 802 747](https://wa.me/27661802747)
-- **LinkedIn**: [Jackson Khuto](https://www.linkedin.com/in/jackson-khuto-625360267/)
+## 🧠 Skills & Technologies
+
+### 👨‍💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### 🔧 Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
+
+### 💾 Database Technologies
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-### 😄 Pronouns
-He/Him
+## 🤝 Let's Collaborate!
+
+🚀 I'm eager to contribute to **open-source** and **real-world projects**  
+🤝 Interested in **web app development**, **API integration**, and **cloud-based solutions**  
+📬 Got an idea or want to build something together? Let’s connect!
 
 ---
 
-### 🎸 Fun Fact
-When I'm not coding, I enjoy playing the guitar. Music allows me to tap into my creative side and is a great way to relax and unwind.
+## 📫 Connect With Me
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/27661802747)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackson-khuto-625360267/)
 
 ---
 
-### 🌐 Profile Views
-![Profile Views](https://visitcount.itsvg.in/api?id=jackson951&label=Profile%20Views&color=0e75b6&icon=5&pretty=true)
+## 😄 Pronouns
+
+**He/Him**
 
 ---
+
+## 🎸 Fun Fact
+
+When I'm not coding, I love **playing the guitar** 🎶  
+Music helps me stay creative and brings balance to my tech journey!
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=jackson951&label=Profile%20Views&color=0e75b6&icon=5&pretty=true" alt="Profile View Counter"/>
+</p>
+
