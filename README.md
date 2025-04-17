@@ -82,7 +82,7 @@ Music helps me stay creative and brings balance to my tech journey!
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=jackson951&label=Profile%20Views&color=0e75b6&icon=5&pretty=true" alt="Profile View Counter"/>
+  <img src="https://komarev.com/ghpvc/?username=jackson951&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 
