@@ -20,6 +20,7 @@ I'm sharpening my front-end skills with:
 - **HTML5**, **CSS3**, and **JavaScript**
 - Building **responsive** and **interactive** web applications
 - Enhancing **user experience (UX)** and **UI design principles**
+- Exploring **Tailwind CSS** for building fast and modern UIs with utility-first styling
 
 ---
 
@@ -37,6 +38,7 @@ I'm sharpening my front-end skills with:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 🔧 Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
