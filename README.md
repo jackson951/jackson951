@@ -1,32 +1,36 @@
 <h1 align="center">👋 Hi there, I'm Jackson Khuto</h1>
 
 <p align="center">
-  <i>Software Developer | ML Enthusiast | Lifelong Learner</i>
+  <i>Software Developer · ML Enthusiast · Lifelong Learner</i>
 </p>
 
 ---
 
-## 👀 About Me
+## 👨‍💻 About Me
 
-🎓 BSc Information Technology Graduate from **North-West University, Vanderbijlpark**  
-💻 Passionate about **Software Development**, **Machine Learning**, and building **scalable web apps**  
-🔍 Always exploring new technologies and taking on exciting challenges
+🎓 I'm a BSc Information Technology graduate from **North-West University, Vanderbijlpark**, with a passion for building **modern, scalable software solutions**.
 
----
+💡 I’m deeply interested in **full-stack development**, **machine learning**, and creating impactful web applications that solve real-world problems.
 
-## 🌱 Currently Learning
-
-I'm sharpening my front-end skills with:
-- **HTML5**, **CSS3**, and **JavaScript**
-- Building **responsive** and **interactive** web applications
-- Enhancing **user experience (UX)** and **UI design principles**
-- Exploring **Tailwind CSS** for building fast and modern UIs with utility-first styling
+🌍 Currently based in South Africa, I thrive on **continuous learning**, **collaboration**, and the challenge of mastering new technologies.
 
 ---
 
-## 🧠 Skills & Technologies
+## 🌱 Currently Exploring
 
-### 👨‍💻 Programming Languages
+I'm sharpening my front-end development and design skills with a focus on:
+
+- 🧱 **HTML5**, **CSS3**, and **JavaScript**
+- ⚛️ **React.js** for building interactive UIs
+- 🎨 **Tailwind CSS** for rapid and clean styling
+- 📱 Creating **responsive** and **accessible** web interfaces
+- 🧠 Improving UX/UI design thinking
+
+---
+
+## 🧠 Tech Stack & Tools
+
+### 🖥️ Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -40,7 +44,7 @@ I'm sharpening my front-end skills with:
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🔧 Tools & Technologies
+### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -48,7 +52,7 @@ I'm sharpening my front-end skills with:
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
 
-### 💾 Database Technologies
+### 💾 Databases
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -57,9 +61,14 @@ I'm sharpening my front-end skills with:
 
 ## 🤝 Let's Collaborate!
 
-🚀 I'm eager to contribute to **open-source** and **real-world projects**  
-🤝 Interested in **web app development**, **API integration**, and **cloud-based solutions**  
-📬 Got an idea or want to build something together? Let’s connect!
+🚀 I'm open to collaborating on:
+
+- Web applications (React, ASP.NET Core, TailwindCSS)
+- RESTful APIs and backend development
+- Machine learning or AI-powered tools
+- Cloud integration projects (Azure)
+
+💡 Whether you have an idea, a project, or just want to connect and chat tech — I’m all ears!
 
 ---
 
@@ -72,19 +81,16 @@ I'm sharpening my front-end skills with:
 
 ## 😄 Pronouns
 
-**He/Him**
+**He / Him**
 
 ---
 
 ## 🎸 Fun Fact
 
-When I'm not coding, I love **playing the guitar** 🎶  
-Music helps me stay creative and brings balance to my tech journey!
+🎶 When I’m not writing code, I’m probably playing the **guitar** — music keeps my creativity flowing and my mind balanced!
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jackson951&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-
-
