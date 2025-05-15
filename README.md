@@ -1,106 +1,125 @@
-<h1 align="center">👋 Hi there, I'm Jackson Khuto</h1>
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hey+there+👋,+I'm+Jackson+Khuto;Full-Stack+Developer+%7C+AI-Powered+Engineer;Turning+Ideas+into+Scalable+Solutions" alt="Typing SVG">
+</p>
+
+<h1 align="center">Jackson Khuto</h1>
+<p align="center">
+  <strong>Software Developer · AI-Powered Engineer · Problem Solver</strong>
+</p>
 
 <p align="center">
-  <i>Software Developer · AI-Powered Engineer · Problem Solver</i>
+  <a href="mailto:jacksonkhuto591@gmail.com">📧 Email</a> |
+  <a href="https://linkedin.com/in/jacksonkhuto">🔗 LinkedIn</a> |
+  <a href="https://github.com/JacksonKhuto">💻 GitHub</a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 I'm a BSc Information Technology graduate from **North-West University, Vanderbijlpark**, with a passion for building **modern, scalable software solutions**.
+🎓 BSc Information Technology graduate from **North-West University, Vanderbijlpark**.
 
-💡 I specialize in **full-stack development**, **machine learning**, and crafting impactful web applications that solve real-world challenges.
+🚀 I craft **modern, scalable software solutions** that merge full-stack development with **AI engineering** to solve real-world problems.
 
-🚀 I excel at leveraging **AI-powered developer tools** to streamline workflows, enhance code quality, and accelerate project delivery. My proficiency with tools like GitHub Copilot and Tabnine helps me focus on solving complex problems efficiently.
+🧠 I thrive in fast-paced, collaborative environments and always stay curious — learning, building, shipping.
 
-🌍 Based in South Africa, I thrive on **continuous learning**, **collaboration**, and embracing new technologies to drive innovation.
+💡 Passionate about **problem-solving**, **innovation**, and empowering software with **AI tools** for efficiency and impact.
 
----
-
-## 🌱 Currently Exploring
-
-I'm sharpening my front-end and design skills with a focus on:
-
-- 🧱 **HTML5**, **CSS3**, and **JavaScript**
-- ⚛️ **React.js** for building interactive UIs
-- 🎨 **Tailwind CSS** for rapid and clean styling
-- 📱 Building **responsive** and **accessible** web interfaces
-- 🧠 Applying **UX/UI design principles**
+🌍 Based in **South Africa**, working remotely with teams across the globe.
 
 ---
 
-## 🧠 Tech Stack & Tools
+## 🛠️ Tech Stack
 
-### 🖥️ Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+### 💻 Languages
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
 ### 🌐 Web & Frameworks
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### ⚒️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
-
-### 🤖 AI Development Tools
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
-![Tabnine](https://img.shields.io/badge/Tabnine-FF4088?style=for-the-badge&logo=tabnine&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=.net&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
 ### 💾 Databases
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+
+### 🤖 AI/ML & Tools
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-1DBF73?style=flat&logo=github&logoColor=white)
+![Tabnine](https://img.shields.io/badge/Tabnine-000000?style=flat&logo=tabnine&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+
+### ☁️ DevOps & Cloud
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+## ⚙️ AI-Powered Workflow
+
+I supercharge productivity using:
+- 🔍 **GitHub Copilot**: Code faster, smarter, and more reliably.
+- ✨ **Tabnine**: AI suggestions that boost creativity and reduce boilerplate.
+- 🧠 **Custom LLMs**: Trained on domain data to power smarter decision-making.
+
+> "Let the AI write boilerplate, so I can focus on architecture, patterns, and product impact."
+
+---
+
+## 🔥 Currently Exploring
+
+- ⚛️ Frontend excellence with **React + Tailwind CSS**
+- 📱 Building **responsive** and **accessible** web interfaces
+- 🎨 Honing **UX/UI design principles**
+- 🌐 Learning **Next.js** and **Jamstack** architectures
+- 🤖 Advanced **ML engineering** and **prompt engineering**
 
 ---
 
 ## 🧩 What I Bring to the Table
 
-- ✅ Proven ability to break down complex problems and architect scalable solutions
-- ✅ Efficiency-first mindset — powered by AI assistance and strong coding fundamentals
-- ✅ Commitment to clean code, maintainable practices, and consistent documentation
-- ✅ Adaptability to new tech stacks and agile environments
-- ✅ Effective communication and teamwork skills
+✅ Architecting scalable solutions from scratch  
+✅ AI-assisted development for speed + precision  
+✅ Clean, maintainable, and well-documented code  
+✅ Adaptable in agile + remote environments  
+✅ Strong collaboration and communication skills
 
 ---
 
-## 🤝 Let's Collaborate
+## 🤝 Let’s Collaborate!
 
-🚀 I'm open to collaborating on:
+I’m open to:
+- 🛠️ Full-stack web apps (React, ASP.NET Core, TailwindCSS)
+- ⚙️ Backend APIs (RESTful, C#/.NET)
+- 🤖 AI/ML-powered automation tools
+- ☁️ Azure cloud deployments and automation
 
-- Web apps (React, ASP.NET Core, TailwindCSS)
-- Backend APIs (RESTful, C#/.NET)
-- AI/ML-powered tools
-- Azure Cloud deployments and automation
-
-If you’ve got an idea or want to work together — don’t hesitate to reach out!
-
----
-
-## 📫 Connect With Me
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/27661802747)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackson-khuto-625360267/)
+Got an idea? Let’s build something amazing. 💬
 
 ---
 
-## 💡 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jackson951&show_icons=true&theme=radical" alt="Jackson's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JacksonKhuto&show_icons=true&theme=radical" alt="Jackson's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JacksonKhuto&theme=radical" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonKhuto&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jackson951&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+---
+
+## ✍️ Quote I Live By
+
+> _"First, solve the problem. Then, write the code."_ — John Johnson
+
+---
+
+_✨ Built with passion, AI, and clean code principles._
