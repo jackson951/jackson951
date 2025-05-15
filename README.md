@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com ?center=true&vCenter=true&lines=Hey+there+👋,+I'm+Jackson+Khuto;Full-Stack+Developer+%7C+AI-Powered+Engineer;Turning+Ideas+into+Scalable+Solutions" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&lines=Hey+there+ 👋,+I'm+Jackson+Khuto;Full-Stack+Developer+%7C+AI-Powered+Engineer;Turning+Ideas+into+Scalable+Solutions" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Jackson Khuto</h1>
@@ -8,17 +8,17 @@
   <strong>Software Developer · AI-Powered Engineer · Problem Solver</strong>
 </p>
 
-<p align="center">
-  <a href="mailto:jacksonkhuto591@gmail.com">📧 Email</a> |
-  <a href="https://linkedin.com/in/jacksonkhuto ">🔗 LinkedIn</a> |
-  <a href="https://github.com/JacksonKhuto ">💻 GitHub</a>
-</p>
+<div align="center">
+  <a href="mailto:jacksonkhuto591@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=flat-square&logo=envelope " /></a>
+  <a href="https://linkedin.com/in/jacksonkhuto "><img src="https://img.shields.io/badge/LinkedIn-Follow-0077B5?style=flat-square&logo=linkedin " /></a>
+  <a href="https://github.com/JacksonKhuto "><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github " /></a>
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 BSc Information Technology graduate from **North-West University, Vanderbijlpark**.
+🎓 BSc Information Technology graduate from **North-West University, Vanderbijlpark**
 
 🚀 I craft **modern, scalable software solutions** that merge full-stack development with **AI engineering** to solve real-world problems.
 
@@ -107,32 +107,29 @@ Got an idea? Let’s build something amazing. 💬
 ## 📈 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/JacksonKhuto ">
-    <img src="https://github-readme-stats.vercel.app/api?username=JacksonKhuto&show_icons=true&theme=radical " alt="GitHub Stats" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=JacksonKhuto&show_icons=true&theme=radical " alt="GitHub Stats" width="100%" />
   <br/>
-  <a href="https://github.com/JacksonKhuto ">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JacksonKhuto&theme=radical " alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JacksonKhuto&theme=radical " alt="GitHub Streak" width="100%" />
   <br/>
-  <a href="https://github.com/JacksonKhuto ">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonKhuto&layout=compact&theme=radical " alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonKhuto&layout=compact&theme=radical " alt="Top Languages" width="100%" />
+  <br/>
+  <img src="https://github-readme-activity.vercel.app/api/chart?username=JacksonKhuto&theme=radical " alt="Activity Chart" width="100%" />
 </div>
 
 ---
 
-## 📌 Pinned Repositories
+## 🏆 Featured Projects
 
-<!-- Replace these with your actual repo names -->
-### [🌟 Project One: AI Chatbot](https://github.com/JacksonKhuto/ai-chatbot )
-> A conversational chatbot built with Python, TensorFlow, and FastAPI.
+### 🚀 [Project One - AI Chatbot API](https://github.com/JacksonKhuto/chatbot-api )
+> A RESTful .NET Core API powered by OpenAI for conversational AI agents.
 
-### [🌐 Project Two: Portfolio Website](https://github.com/JacksonKhuto/portfolio-site )
-> Personal portfolio built with React, Tailwind CSS, and hosted on Vercel.
+### 💼 [Project Two - Portfolio Dashboard](https://github.com/JacksonKhuto/portfolio-dashboard )
+> Built with React + Tailwind CSS for showcasing my work in a dynamic UI.
 
-### [🧮 Project Three: Task Manager API](https://github.com/JacksonKhuto/task-manager-api )
-> RESTful API using ASP.NET Core and SQL Server for managing tasks.
+### 🧪 [Project Three - ML Anomaly Detection](https://github.com/JacksonKhuto/ml-anomaly-detection )
+> Python-based machine learning model detecting anomalies in time-series datasets.
+
+> *More projects on [GitHub](https://github.com/JacksonKhuto ).*
 
 ---
 
