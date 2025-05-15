@@ -134,20 +134,13 @@ If you're working on something exciting or meaningful — let's talk!
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jackson951&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackson951&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jackson951&theme=radical" alt="Contribution Graph" />
+  <img src="https://komarev.com/ghpvc/?username=jackson951&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jackson951&theme=radical&row=1&column=6" alt="Trophies" />
-</p>
 
 ---
 
