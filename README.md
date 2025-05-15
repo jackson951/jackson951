@@ -1,105 +1,127 @@
-<h1 align="center">👋 Hey there, I'm Jackson Khuto</h1>
+<h1 align="center">👋 Hello World, I'm Jackson Khuto</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Software+Developer;AI-Powered+Engineer;Full-Stack+Problem+Solver" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <i>Crafting scalable, intelligent, and user-friendly software solutions</i>
+  <i>🚀 Passionate about crafting scalable, intelligent, and impactful web solutions</i>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 BSc in Information Technology from **North-West University, Vanderbijlpark**  
-💻 Passionate Full-Stack Developer & AI Enthusiast  
-🌍 Based in **South Africa**, building impactful digital experiences  
-⚙️ Proficient in using **AI-enhanced tools** like **GitHub Copilot** and **Tabnine** to accelerate development  
-📈 Constant learner and creative problem-solver
+🎓 **BSc Information Technology** graduate from **North-West University, Vanderbijlpark**  
+💻 Full-Stack Developer | AI Engineer | Problem Solver  
+🌍 Based in **South Africa**  
+🧠 Passionate about tech, innovation, and continuous learning  
+🛠️ AI-assisted developer using **GitHub Copilot**, **Tabnine**, and more!
 
 ---
 
-## 🌱 Currently Exploring
+## 🚀 What I'm Currently Exploring
 
-- 🧱 **HTML5, CSS3, JavaScript**
-- ⚛️ **React.js** for interactive UIs
-- 🎨 **Tailwind CSS** for rapid, clean styling
-- 📱 **Responsive** & **Accessible** web design
-- 🧠 UX/UI Design Principles
+- ⚛️ React.js — Building dynamic UIs
+- 🎨 Tailwind CSS — Clean, utility-first styling
+- 📱 Responsive & accessible web design
+- 🧱 HTML5, CSS3, JavaScript
+- 🧠 UX/UI Design & Prototyping
 
 ---
 
 ## 🧠 Tech Stack & Tools
 
 ### 🖥️ Languages  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
-### 🌐 Web & Frameworks  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### 🌐 Frontend  
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
 
-### ⚒️ Tools & Platforms  
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+### 🛠️ Backend & APIs  
+<p>
+  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
+</p>
 
-### 🤖 AI Development Tools  
-![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=github&logoColor=white)  
-![Tabnine](https://img.shields.io/badge/Tabnine-00C7B7?style=for-the-badge&logo=tabnine&logoColor=white)
+### ⚙️ Tools & Platforms  
+<p>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+</p>
+
+### 🤖 AI Developer Tools  
+<p>
+  <img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tabnine-00C7B7?style=for-the-badge&logo=tabnine&logoColor=white"/>
+</p>
 
 ### 💾 Databases  
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
 
 ---
 
 ## 🧩 What I Bring to the Table
 
-✅ Architecting scalable full-stack applications  
-✅ Efficiency-first mindset powered by AI and clean code practices  
-✅ Strong problem-solving skills and proven delivery record  
-✅ Agile-friendly, team-oriented, and great at communication  
-✅ Always learning and adapting to new technologies
+✅ Ability to break down complex problems & architect scalable solutions  
+✅ Efficiency-first mindset — powered by AI + solid fundamentals  
+✅ Clean code, documentation, and maintainable architecture  
+✅ Adaptability in fast-paced, agile environments  
+✅ Strong communication & collaboration skills
 
 ---
 
 ## 🤝 Let's Collaborate
 
-🚀 Open to working on:  
-- Front-End Projects (React, HTML, Tailwind)  
-- Back-End APIs (C#, ASP.NET Core, RESTful services)  
-- AI/ML Tools  
-- Azure Cloud Solutions and DevOps  
+I'm open to working on:
 
-📬 Reach out and let's build something amazing!
+- 🌐 React-based Web Apps (with TailwindCSS)
+- 🧠 AI/ML tools and automation
+- 🧩 Backend APIs using C# / ASP.NET Core
+- ☁️ Azure Cloud deployments
+
+If you're working on something exciting or meaningful — let's talk!
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/jackson951">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/jackson951" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/jacksonkhuto/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:jacksonkhuto@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 💡 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jackson951&show_icons=true&theme=radical" alt="Jackson's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jackson951&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -113,9 +135,9 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l3vR3z8j7j1W1xk3G/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
 </p>
 
-> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+> _“Talk is cheap. Show me the code.” – Linus Torvalds_
 
 ---
