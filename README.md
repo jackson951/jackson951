@@ -1,128 +1,138 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Jackson+Khuto;Full-Stack+Developer;AI-Powered+Engineer;Cloud+Enthusiast;Problem+Solver&center=true&size=30&color=4F8CC9&vCenter=true&width=600&height=60" alt="Typing SVG" />
-  </a>
-</h1>
+# 👋 Hello World, I'm Jackson Khuto 🚀  
+## *Software Developer | AI-Powered Engineer | Full-Stack Problem Solver*
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&animation=fadeIn&fontAlign=70" />
+  <img src="https://readme-typing-svg.herokuapp.com ?font=Fira+Code&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Software+Developer;AI-Powered+Engineer;Full-Stack+Problem+Solver" alt="Typing SVG" />
 </p>
 
 <div align="center">
-  
-  ![Visitor Count](https://komarev.com/ghpvc/?username=jackson951&label=Profile%20Views&color=0e75b6&style=flat)
-  ![GitHub Followers](https://img.shields.io/github/followers/jackson951?label=Followers&style=social)
-  
+  <i>🚀 Passionate about crafting scalable, intelligent, and impactful web solutions</i>
 </div>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About Me**
+<br />
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
-🎓 BSc Information Technology Graduate | North-West University  
-💻 Passionate about building scalable, intelligent web solutions  
-🌍 Based in South Africa | Open to remote opportunities  
-🚀 AI-assisted developer using GitHub Copilot & modern tooling  
-📊 Strong problem-solving & analytical skills  
-📚 Constantly learning & adapting to new technologies  
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif " width="350" />
+</div>
 
 ---
 
-## 🛠️ **Tech Stack & Tools**
+## 🧑‍💻 About Me
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> **Programming Languages**
-
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-### <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="25"> **Frontend Development**
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="25"> **Backend Development**
-
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-
-### <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="25"> **Database & Cloud**
-
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-### <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="25"> **Developer Tools**
-
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000.svg?style=for-the-badge&logo=github&logoColor=white)
-![Tabnine](https://img.shields.io/badge/Tabnine-00C7B7.svg?style=for-the-badge&logo=tabnine&logoColor=white)
+🎓 **BSc Information Technology** graduate from North-West University, Vanderbijlpark  
+🌍 Based in South Africa  
+🧠 Tech enthusiast with a love for innovation, AI integration, and continuous learning  
+🛠️ AI-assisted developer using tools like **GitHub Copilot**, **Tabnine**, and more  
 
 ---
 
-## 📊 **GitHub Analytics**
+## 🔥 What I Do
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jackson951&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackson951&layout=compact&langs_count=8&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jackson951&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jackson951&theme=radical&no-frame=true&row=1&column=7" width="100%" alt="Trophy" />
-</p>
+- ⚛️ Build dynamic user interfaces with **React.js**
+- 🎨 Style beautiful, responsive layouts using **Tailwind CSS**
+- 🧱 Develop clean, semantic markup with **HTML5 & CSS3**
+- 🧠 Focus on UX/UI design and accessibility best practices
+- ☁️ Deploy apps to **Azure Cloud**
+- 💬 Deliver clean, maintainable, and documented code
 
 ---
 
-## 🌐 **Connect With Me**
+## 💻 Tech Stack & Tools
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jackson-khuto-625360267/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:jacksonkhuto591@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://t.me/Jackson_Khuto" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="https://github.com/jackson951" target="_blank">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+### 🖥️ Languages
+<div>
+  <img src="https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=dotnet&logoColor=white "/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black "/>
+  <img src="https://img.shields.io/badge/Python-306998?style=flat-square&logo=python&logoColor=white "/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white "/>
+</div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
-</p>
+### 🌐 Frontend
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white "/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white "/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB "/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white "/>
+</div>
+
+### 🛠️ Backend & APIs
+<div>
+  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white "/>
+  <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square "/>
+</div>
+
+### ⚙️ Tools & Platforms
+<div>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white "/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white "/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white "/>
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white "/>
+</div>
+
+### 🤖 AI Developer Tools
+<div>
+  <img src="https://img.shields.io/badge/Copilot-000000?style=flat-square&logo=github&logoColor=white "/>
+  <img src="https://img.shields.io/badge/Tabnine-00C7B7?style=flat-square&logo=tabnine&logoColor=white "/>
+</div>
+
+### 💾 Databases
+<div>
+  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white "/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white "/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white "/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white "/>
+</div>
 
 ---
 
-## 🎧 **Currently Vibing To**
+## 🧩 What I Bring to the Table
 
-[![Spotify](https://novatorem-jackson951.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/jacksonkhuto591)
+✅ Efficient problem-solving through AI + solid engineering fundamentals  
+✅ Architecting scalable and maintainable systems  
+✅ Writing clean, well-documented, and testable code  
+✅ Strong communication and agile collaboration skills  
+✅ Constantly learning and adapting to new technologies
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn&fontAlign=70" />
-</p>
+## 🤝 Let's Collaborate!
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Readme Quotes"/>
-</p>
+I’m currently exploring opportunities in:
+- 🌐 React-based Web Apps (with TailwindCSS)
+- 🧠 AI/ML tools and automation
+- 🧩 Backend APIs using C# / ASP.NET Core
+- ☁️ Azure Cloud deployments
+
+If you're building something meaningful or innovative — let’s connect!
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+  <a href="https://github.com/jackson951 " target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white "/></a>
+  <a href="https://www.linkedin.com/in/jackson-khuto-625360267/ " target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white "/></a>
+  <a href="mailto:jacksonkhuto591@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white "/></a>
+  <a href="https://t.me/Jackson_Khuto " target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white "/></a>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jackson951&show_icons=true&theme=radical " alt="GitHub Stats" style="max-width: 100%; margin: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jackson951&theme=radical " alt="GitHub Streak" style="max-width: 100%; margin: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackson951&layout=compact&theme=radical " alt="Top Languages" style="max-width: 100%; margin: 10px;" />
+  <img src="https://komarev.com/ghpvc/?username=jackson951&label=Profile+Views&color=0e75b6&style=flat " alt="Profile Views" style="margin-top: 10px;" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif " width="300" />
+</div>
+
+<blockquote>
+  “Talk is cheap. Show me the code.” – Linus Torvalds
+</blockquote>
