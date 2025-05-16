@@ -119,6 +119,9 @@ If you're working on something exciting or meaningful — let's talk!
   <a href="mailto:jacksonkhuto591@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://t.me/Jackson_Khuto" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
 </p>
 
 ---
