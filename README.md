@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello World, I'm <span style="color:#f70000;">Jackson Khuto</span></h1>
+<h1 align="center">👋 Hello World, I'm Jackson Khuto</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Software+Developer;AI-Powered+Engineer;Full-Stack+Problem+Solver" alt="Typing SVG" />
@@ -9,28 +9,27 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 BSc Information Technology graduate from North-West University, Vanderbijlpark  
+- 🎓 BSc Information Technology | North-West University, Vanderbijlpark  
 - 💻 Full-Stack Developer | AI Engineer | Problem Solver  
 - 🌍 Based in South Africa  
-- 🧠 Passionate about tech, innovation, and continuous learning  
-- ⚡ AI-assisted developer using GitHub Copilot, Tabnine & more  
+- 🤖 Leveraging AI tools like GitHub Copilot & Tabnine for productivity  
+- 💬 Passionate about tech, innovation, and continuous learning
 
 ---
 
-## 🚀 What I'm Currently Exploring
+## 🚀 What I'm Exploring Right Now
 
-- ⚛️ React.js — Building dynamic UIs  
-- 🎨 Tailwind CSS — Clean, utility-first styling  
-- 📱 Responsive & accessible web design  
-- 🧱 HTML5, CSS3, JavaScript  
-- 🧠 UX/UI Design & Prototyping  
+- ⚛️ **React.js** — Building dynamic, modern UIs  
+- 🎨 **Tailwind CSS** — Clean, utility-first design system  
+- 📱 **Responsive & accessible** web apps  
+- 🧠 **UX/UI Design & Prototyping**
 
 ---
 
@@ -58,6 +57,14 @@
   <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
 </p>
 
+### 💾 Databases
+<p>
+  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
 ### ⚙️ Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
@@ -72,36 +79,28 @@
   <img src="https://img.shields.io/badge/Tabnine-00C7B7?style=for-the-badge&logo=tabnine&logoColor=white"/>
 </p>
 
-### 💾 Databases
-<p>
-  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
 ---
 
 ## 🧩 What I Bring to the Table
 
-- ✅ Ability to break down complex problems & architect scalable solutions  
-- ✅ Efficiency-first mindset — powered by AI + solid fundamentals  
-- ✅ Clean code, documentation, and maintainable architecture  
-- ✅ Adaptability in fast-paced, agile environments  
-- ✅ Strong communication & collaboration skills  
+✅ Scalable architecture and clean code  
+✅ AI-assisted development for enhanced productivity  
+✅ Agile & adaptable to changing requirements  
+✅ Strong communication and teamwork  
+✅ Maintainable, documented codebases  
 
 ---
 
 ## 🤝 Let's Collaborate
 
-I'm open to working on:
+I’m open to projects involving:
 
-- 🌐 React-based Web Apps (with TailwindCSS)  
-- 🧠 AI/ML tools and automation  
-- 🧩 Backend APIs using C# / ASP.NET Core  
-- ☁️ Azure Cloud deployments  
+- 🌐 **React + Tailwind Web Applications**  
+- 🤖 **AI / Automation Tools**  
+- 🔧 **Backend APIs with C# / ASP.NET Core**  
+- ☁️ **Azure Cloud Deployments**  
 
-> **If you're working on something exciting or meaningful — let's talk!**
+If you're building something meaningful or exciting — let's connect!
 
 ---
 
@@ -127,25 +126,25 @@ I'm open to working on:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jackson951&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jackson951&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jackson951&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jackson951&theme=radical" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackson951&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackson951&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jackson951&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=jackson951&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
+
+---
 
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
 </p>
 
----
-
-> _“Talk is cheap. Show me the code.”_ — Linus Torvalds
+> “Talk is cheap. Show me the code.” – Linus Torvalds
