@@ -4,7 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Software+Developer;AI-Powered+Engineer;Full-Stack+Problem+Solver" alt="Typing SVG" />
 </p>
 
-<p align="center"><i>🚀 Passionate about crafting scalable, intelligent, and impactful web solutions</i></p>
+<p align="center">
+  <i>🚀 Passionate about crafting scalable, intelligent, and impactful web solutions</i>
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
@@ -18,16 +20,16 @@
 - 💻 Full-Stack Developer | AI Engineer | Problem Solver  
 - 🌍 Based in South Africa  
 - 🤖 Leveraging AI tools like GitHub Copilot & Tabnine for productivity  
-- 💬 Passionate about tech, innovation, and continuous learning  
+- 💬 Passionate about tech, innovation, and continuous learning
 
 ---
 
 ## 🚀 What I'm Exploring Right Now
 
-- ⚛️ React.js — Building dynamic, modern UIs  
-- 🎨 Tailwind CSS — Clean, utility-first design system  
-- 📱 Responsive & accessible web apps  
-- 🧠 UX/UI Design & Prototyping  
+- ⚛️ **React.js** — Building dynamic, modern UIs  
+- 🎨 **Tailwind CSS** — Clean, utility-first design system  
+- 📱 **Responsive & accessible** web apps  
+- 🧠 **UX/UI Design & Prototyping**
 
 ---
 
@@ -91,11 +93,12 @@
 
 ## 🤝 Let's Collaborate
 
-I’m open to projects involving:  
-- 🌐 React + Tailwind Web Applications  
-- 🤖 AI / Automation Tools  
-- 🔧 Backend APIs with C# / ASP.NET Core  
-- ☁️ Azure Cloud Deployments  
+I’m open to projects involving:
+
+- 🌐 **React + Tailwind Web Applications**  
+- 🤖 **AI / Automation Tools**  
+- 🔧 **Backend APIs with C# / ASP.NET Core**  
+- ☁️ **Azure Cloud Deployments**  
 
 If you're building something meaningful or exciting — let's connect!
 
@@ -134,23 +137,11 @@ If you're building something meaningful or exciting — let's connect!
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackson951&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
----
-
-## 🐍 My Contributions
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jackson951/jackson951/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jackson951/jackson951/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/jackson951/jackson951/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jackson951&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
+
+---
 
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
