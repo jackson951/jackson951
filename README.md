@@ -12,29 +12,20 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
 </p>
 
----
-
 ## 👨‍💻 About Me
-
-- 🎓 BSc Information Technology | North-West University, Vanderbijlpark  
-- 💻 Full-Stack Developer | AI Engineer | Problem Solver  
-- 🌍 Based in South Africa  
-- 🤖 Leveraging AI tools like GitHub Copilot & Tabnine for productivity  
-- 💬 Passionate about tech, innovation, and continuous learning
-
----
+🎓 BSc Information Technology | North-West University, Vanderbijlpark  
+💻 Full-Stack Developer | AI Engineer | Problem Solver  
+🌍 Based in South Africa  
+🤖 Leveraging AI tools like GitHub Copilot & Tabnine for productivity  
+💬 Passionate about tech, innovation, and continuous learning  
 
 ## 🚀 What I'm Exploring Right Now
-
-- ⚛️ **React.js** — Building dynamic, modern UIs  
-- 🎨 **Tailwind CSS** — Clean, utility-first design system  
-- 📱 **Responsive & accessible** web apps  
-- 🧠 **UX/UI Design & Prototyping**
-
----
+⚛️ React.js — Building dynamic, modern UIs  
+🎨 Tailwind CSS — Clean, utility-first design system  
+📱 Responsive & accessible web apps  
+🧠 UX/UI Design & Prototyping  
 
 ## 🧠 Tech Stack & Tools
-
 ### 🖥️ Languages
 <p>
   <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=dotnet&logoColor=white"/>
@@ -69,7 +60,7 @@
 <p>
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/b badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
 </p>
 
@@ -79,33 +70,22 @@
   <img src="https://img.shields.io/badge/Tabnine-00C7B7?style=for-the-badge&logo=tabnine&logoColor=white"/>
 </p>
 
----
-
 ## 🧩 What I Bring to the Table
-
 ✅ Scalable architecture and clean code  
 ✅ AI-assisted development for enhanced productivity  
 ✅ Agile & adaptable to changing requirements  
 ✅ Strong communication and teamwork  
 ✅ Maintainable, documented codebases  
 
----
-
 ## 🤝 Let's Collaborate
-
-I’m open to projects involving:
-
-- 🌐 **React + Tailwind Web Applications**  
-- 🤖 **AI / Automation Tools**  
-- 🔧 **Backend APIs with C# / ASP.NET Core**  
-- ☁️ **Azure Cloud Deployments**  
-
-If you're building something meaningful or exciting — let's connect!
-
----
+I'm open to projects involving:  
+🌐 React + Tailwind Web Applications  
+🤖 AI / Automation Tools  
+🔧 Backend APIs with C# / ASP.NET Core  
+☁️ Azure Cloud Deployments  
+If you're building something meaningful or exciting — let's connect!  
 
 ## 📫 Connect With Me
-
 <p align="center">
   <a href="https://github.com/jackson951" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -121,10 +101,7 @@ If you're building something meaningful or exciting — let's connect!
   </a>
 </p>
 
----
-
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jackson951&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
@@ -137,14 +114,21 @@ If you're building something meaningful or exciting — let's connect!
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackson951&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
+## 🌟 My Contributions
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jackson951/jackson951/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jackson951/jackson951/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/jackson951/jackson951/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jackson951&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
-
----
 
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
 </p>
 
-> “Talk is cheap. Show me the code.” – Linus Torvalds
+> "Talk is cheap. Show me the code." – Linus Torvalds
