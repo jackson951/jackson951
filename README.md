@@ -30,6 +30,7 @@
 - 🎨 **Tailwind CSS** — Clean, utility-first design system  
 - 📱 **Responsive & accessible** web apps  
 - 🧠 **UX/UI Design & Prototyping**
+- 🌐 **Express.js & Node.js** — Building robust backend services
 
 ---
 
@@ -54,6 +55,8 @@
 ### 🛠️ Backend & APIs
 <p>
   <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
 </p>
 
@@ -93,11 +96,11 @@
 
 ## 🤝 Let's Collaborate
 
-I’m open to projects involving:
+I'm open to projects involving:
 
 - 🌐 **React + Tailwind Web Applications**  
 - 🤖 **AI / Automation Tools**  
-- 🔧 **Backend APIs with C# / ASP.NET Core**  
+- 🔧 **Backend APIs with C#/ASP.NET Core or Node.js/Express**  
 - ☁️ **Azure Cloud Deployments**  
 
 If you're building something meaningful or exciting — let's connect!
@@ -147,4 +150,4 @@ If you're building something meaningful or exciting — let's connect!
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
 </p>
 
-> “Talk is cheap. Show me the code.” – Linus Torvalds
+> "Talk is cheap. Show me the code." – Linus Torvalds
