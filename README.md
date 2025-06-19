@@ -133,10 +133,6 @@ If you're building something meaningful or exciting — let's connect!
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jackson951&theme=radical" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackson951&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
