@@ -349,6 +349,5 @@ console.log("Building the future, one commit at a time! 🚀");
 
 *Transforming ideas into digital reality, one line of code at a time* 🚀
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=jackson951&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 </div>
