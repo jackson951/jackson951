@@ -1,149 +1,203 @@
-<h1 align="center">👋 Hello World, I'm Jackson Khuto</h1>
+# 👋 Hello World, I'm Jackson Khuto
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Software+Developer;AI-Powered+Engineer;Full-Stack+Problem+Solver" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<p align="center">
-  <i>🚀 Passionate about crafting scalable, intelligent, and impactful web solutions</i>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Software+Developer;AI-Powered+Engineer;Full-Stack+Problem+Solver;Building+Tomorrow's+Solutions)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
-</p>
+</div>
+
+<div align="center">
+  
+*🚀 Passionate about crafting scalable, intelligent, and impactful web solutions*
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation"/>
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 BSc Information Technology | North-West University, Vanderbijlpark  
-- 💻 Full-Stack Developer | AI Engineer | Problem Solver  
-- 🌍 Based in South Africa  
-- 🤖 Leveraging AI tools like GitHub Copilot & Tabnine for productivity  
-- 💬 Passionate about tech, innovation, and continuous learning
+```typescript
+const jackson = {
+  education: "BSc Information Technology | North-West University, Vanderbijlpark",
+  role: ["Full-Stack Developer", "AI Engineer", "Problem Solver"],
+  location: "South Africa 🇿🇦",
+  aiTools: ["GitHub Copilot", "Tabnine", "Claude"],
+  passion: ["Tech Innovation", "Continuous Learning", "Building Impact"],
+  currentFocus: "Creating intelligent web solutions with modern technologies"
+};
+```
 
 ---
 
 ## 🚀 What I'm Exploring Right Now
 
-- ⚛️ **React.js** — Building dynamic, modern UIs  
-- 🎨 **Tailwind CSS** — Clean, utility-first design system  
-- 📱 **Responsive & accessible** web apps  
-- 🧠 **UX/UI Design & Prototyping**
-- 🌐 **Express.js & Node.js** — Building robust backend services
+<div align="center">
+
+| Frontend Excellence | Backend Mastery | AI Integration |
+|:-------------------:|:---------------:|:--------------:|
+| ⚛️ **React.js** | 🌐 **Express.js & Node.js** | 🤖 **AI-Powered Development** |
+| Dynamic, modern UIs | Robust backend services | Enhanced productivity tools |
+| 🎨 **Tailwind CSS** | 🔗 **RESTful APIs** | 🧠 **Machine Learning Integration** |
+| Clean, utility-first design | Scalable architectures | Intelligent automation |
+
+</div>
 
 ---
 
-## 🧠 Tech Stack & Tools
+## 🛠️ Tech Stack & Arsenal
 
-### 🖥️ Languages
-<p>
-  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</p>
+### 💻 **Languages**
+<div align="center">
 
-### 🌐 Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-</p>
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### 🛠️ Backend & APIs
-<p>
-  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
-</p>
+</div>
 
-### 💾 Databases
-<p>
-  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
+### 🌐 **Frontend Technologies**
+<div align="center">
 
-### ⚙️ Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### 🤖 AI Developer Tools
-<p>
-  <img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tabnine-00C7B7?style=for-the-badge&logo=tabnine&logoColor=white"/>
-</p>
+</div>
 
----
+### 🔧 **Backend & APIs**
+<div align="center">
 
-## 🧩 What I Bring to the Table
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-✅ Scalable architecture and clean code  
-✅ AI-assisted development for enhanced productivity  
-✅ Agile & adaptable to changing requirements  
-✅ Strong communication and teamwork  
-✅ Maintainable, documented codebases  
+</div>
 
----
+### 💾 **Databases**
+<div align="center">
 
-## 🤝 Let's Collaborate
+![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-I'm open to projects involving:
+</div>
 
-- 🌐 **React + Tailwind Web Applications**  
-- 🤖 **AI / Automation Tools**  
-- 🔧 **Backend APIs with C#/ASP.NET Core or Node.js/Express**  
-- ☁️ **Azure Cloud Deployments**  
+### ⚙️ **Development Tools**
+<div align="center">
 
-If you're building something meaningful or exciting — let's connect!
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+</div>
+
+### 🤖 **AI Development Tools**
+<div align="center">
+
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![Tabnine](https://img.shields.io/badge/Tabnine-00C7B7?style=for-the-badge&logo=tabnine&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude%20AI-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white)
+
+</div>
 
 ---
 
-## 📫 Connect With Me
+## 💪 What I Bring to the Table
 
-<p align="center">
-  <a href="https://github.com/jackson951" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/jackson-khuto-625360267/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:jacksonkhuto591@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://t.me/Jackson_Khuto" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
 
----
+| 🏗️ **Architecture** | 🤖 **AI Integration** | 🔄 **Agile Approach** | 🤝 **Collaboration** |
+|:---:|:---:|:---:|:---:|
+| Scalable & Clean Code | AI-Assisted Development | Adaptable to Requirements | Strong Communication |
+| Modern Design Patterns | Enhanced Productivity | Continuous Integration | Team Leadership |
 
-## 📊 GitHub Stats
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jackson951&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackson951&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jackson951&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
+```javascript
+const mySuperpowers = {
+  architecture: ["Scalable systems", "Clean code", "Modern patterns"],
+  aiIntegration: ["GitHub Copilot", "Automated testing", "Smart debugging"],
+  methodology: ["Agile development", "CI/CD", "Test-driven development"],
+  collaboration: ["Team leadership", "Code reviews", "Technical mentoring"]
+};
+```
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
-</p>
+## 🎯 Open for Collaboration
 
-> "Talk is cheap. Show me the code." – Linus Torvalds
+I'm actively seeking opportunities in:
+
+<div align="center">
+
+🌐 **React + Tailwind Web Applications**  
+🤖 **AI/ML Integration & Automation Tools**  
+🔧 **Backend APIs with .NET Core or Node.js**  
+☁️ **Azure Cloud Solutions & DevOps**  
+📱 **Full-Stack Modern Applications**  
+
+</div>
+
+> **Ready to build something amazing together? Let's connect!**
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jackson951)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackson-khuto-625360267/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jacksonkhuto591@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Jackson_Khuto)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=jackson951&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Jackson's GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jackson951&theme=tokyonight&hide_border=true" alt="Jackson's GitHub Streak" width="48%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackson951&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jackson951&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="48%" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎯 *"Talk is cheap. Show me the code."* – Linus Torvalds
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" alt="Coding GIF"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=jackson951&label=Profile+Views&color=brightgreen&style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+
+**⭐ From [Jackson Khuto](https://github.com/jackson951) with 💚**
+
+*Building the future, one commit at a time* 🚀
+
+</div>
