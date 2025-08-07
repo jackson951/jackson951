@@ -225,13 +225,6 @@ const myExpertise = {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jackson951&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00d4aa&fire=00d4aa&currStreakLabel=00d4aa" alt="Jackson's GitHub Streak"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jackson951&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00d4aa&line=00d4aa&point=ffffff" width="100%" alt="Jackson's Contribution Graph"/>
 
 </div>
 
