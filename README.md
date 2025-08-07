@@ -14,7 +14,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=jackson951&label=Profile+Views&color=00d4aa&style=for-the-badge)](https://github.com/jackson951)
 [![GitHub Followers](https://img.shields.io/github/followers/jackson951?label=Followers&style=for-the-badge&color=00d4aa&logoColor=white)](https://github.com/jackson951)
-[![Years Badge](https://badges.pufler.dev/years/jackson951?style=for-the-badge&color=00d4aa)](https://github.com/jackson951)
+
 
 </div>
 
@@ -298,7 +298,7 @@ const myExpertise = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackson-khuto-625360267/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jacksonkhuto591@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Jackson_Khuto)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://link-on-the-way.com)
 
 ### 📧 **Contact Information**
 - 📧 **Email:** jacksonkhuto591@gmail.com
