@@ -14,7 +14,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Developer" width="50"> **About Me**
+## 👨‍💻 **About Me**
 
 <div align="center">
 
@@ -56,25 +56,25 @@ console.log("Ready to build something amazing! 🚀");
 <table>
 <tr>
 <td width="25%" align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Frontend" width="60">
+💻
 <br><strong>Frontend Craft</strong>
 <br><code>React • TypeScript • Next.js</code>
 <br><em>Responsive & Interactive UIs</em>
 </td>
 <td width="25%" align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Backend" width="60">
+⚙️
 <br><strong>Backend Engineering</strong>
 <br><code>.NET Core • Node.js • APIs</code>
 <br><em>Scalable Server Solutions</em>
 </td>
 <td width="25%" align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Cloud.png" alt="Cloud" width="60">
+☁️
 <br><strong>Cloud Architecture</strong>
 <br><code>Azure • AWS • Docker</code>
 <br><em>Modern Deployment Solutions</em>
 </td>
 <td width="25%" align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" alt="AI" width="60">
+🤖
 <br><strong>AI Integration</strong>
 <br><code>GitHub Copilot • ML APIs</code>
 <br><em>Enhanced Development Flow</em>
@@ -85,7 +85,7 @@ console.log("Ready to build something amazing! 🚀");
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="40"> **Technology Arsenal**
+## 🛠️ **Technology Arsenal**
 
 <div align="center">
 
@@ -131,7 +131,7 @@ console.log("Ready to build something amazing! 🚀");
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="40"> **GitHub Analytics**
+## 📊 **GitHub Analytics**
 
 <div align="center">
 
@@ -157,29 +157,29 @@ console.log("Ready to build something amazing! 🚀");
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Opportunities" width="40"> **Open to Opportunities**
+## 🚀 **Open to Opportunities**
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" alt="Web Dev" width="50">
+🌐
 <br><strong>Full-Stack Development</strong>
 <br><em>Building modern web applications</em>
 </td>
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Cloud.png" alt="Cloud" width="50">
+☁️
 <br><strong>Cloud Solutions</strong>
 <br><em>Scalable cloud architectures</em>
 </td>
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" alt="AI" width="50">
+🤖
 <br><strong>AI-Enhanced Apps</strong>
 <br><em>Intelligent automation solutions</em>
 </td>
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Mentoring" width="50">
+📚
 <br><strong>Knowledge Sharing</strong>
 <br><em>Teaching & community building</em>
 </td>
@@ -195,7 +195,7 @@ console.log("Ready to build something amazing! 🚀");
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone.png" alt="Contact" width="40"> **Let's Connect & Collaborate**
+## 📞 **Let's Connect & Collaborate**
 
 <div align="center">
 
@@ -238,6 +238,6 @@ const philosophy = {
 
 **⭐ Crafted with 💚 by [Jackson Khuto](https://github.com/jackson951) | Always eager to learn and contribute**
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium%20Skin%20Tone.png" alt="Wave" width="30">
+👋
 
 </div>
