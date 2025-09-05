@@ -8,13 +8,13 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=jackson951&label=Profile+Views&color=00f5ff&style=for-the-badge&abbreviated=true)](https://github.com/jackson951)
 [![GitHub Followers](https://img.shields.io/github/followers/jackson951?label=Followers&style=for-the-badge&color=00f5ff&labelColor=1a1b27)](https://github.com/jackson951)
-[![Years Badge](https://badges.pufler.dev/years/jackson951?style=for-the-badge&color=00f5ff&labelColor=1a1b27)](https://github.com/jackson951)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/jackson951?style=for-the-badge&color=00f5ff&labelColor=1a1b27)](https://github.com/jackson951)
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Developer" width="50"> **About Me**
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> **About Me**
 
 <div align="center">
 
@@ -56,25 +56,25 @@ console.log("Ready to build something amazing! 🚀");
 <table>
 <tr>
 <td width="25%" align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Frontend" width="60">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="60">
 <br><strong>Frontend Craft</strong>
 <br><code>React • TypeScript • Next.js</code>
 <br><em>Responsive & Interactive UIs</em>
 </td>
 <td width="25%" align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Backend" width="60">
+<img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="60">
 <br><strong>Backend Engineering</strong>
 <br><code>.NET Core • Node.js • APIs</code>
 <br><em>Scalable Server Solutions</em>
 </td>
 <td width="25%" align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Cloud.png" alt="Cloud" width="60">
+<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="60">
 <br><strong>Cloud Architecture</strong>
 <br><code>Azure • AWS • Docker</code>
 <br><em>Modern Deployment Solutions</em>
 </td>
 <td width="25%" align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" alt="AI" width="60">
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="60">
 <br><strong>AI Integration</strong>
 <br><code>GitHub Copilot • ML APIs</code>
 <br><em>Enhanced Development Flow</em>
@@ -85,7 +85,7 @@ console.log("Ready to build something amazing! 🚀");
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="40"> **Technology Arsenal**
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> **Technology Arsenal**
 
 <div align="center">
 
@@ -131,7 +131,7 @@ console.log("Ready to build something amazing! 🚀");
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="40"> **GitHub Analytics**
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **GitHub Analytics**
 
 <div align="center">
 
@@ -153,33 +153,41 @@ console.log("Ready to build something amazing! 🚀");
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jackson951&theme=tokyonight&hide_border=true&stroke=00f5ff&ring=00f5ff&fire=00f5ff&currStreakLabel=00f5ff&background=0d1117" alt="GitHub Streak"/>
 </picture>
 
+### 📊 **Additional Metrics**
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jackson951&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f5ff&line=00f5ff&point=ffffff)
+
+</div>
+
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Opportunities" width="40"> **Open to Opportunities**
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Open to Opportunities**
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" alt="Web Dev" width="50">
+🌐
 <br><strong>Full-Stack Development</strong>
 <br><em>Building modern web applications</em>
 </td>
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Cloud.png" alt="Cloud" width="50">
+☁️
 <br><strong>Cloud Solutions</strong>
 <br><em>Scalable cloud architectures</em>
 </td>
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" alt="AI" width="50">
+🤖
 <br><strong>AI-Enhanced Apps</strong>
 <br><em>Intelligent automation solutions</em>
 </td>
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Mentoring" width="50">
+📚
 <br><strong>Knowledge Sharing</strong>
 <br><em>Teaching & community building</em>
 </td>
@@ -195,7 +203,7 @@ console.log("Ready to build something amazing! 🚀");
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone.png" alt="Contact" width="40"> **Let's Connect & Collaborate**
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> **Let's Connect & Collaborate**
 
 <div align="center">
 
@@ -214,6 +222,13 @@ console.log("Ready to build something amazing! 🚀");
 **📍 Location:** Pretoria, South Africa  
 **💼 Status:** Available for exciting opportunities  
 **⏰ Response Time:** Usually within 24 hours
+
+### 🤝 **Open for:**
+- Full-time positions
+- Freelance projects
+- Collaboration opportunities
+- Mentorship & knowledge exchange
+- Open source contributions
 
 </div>
 
@@ -236,8 +251,19 @@ const philosophy = {
 // Ready to build the future together? Let's connect! 🚀
 ```
 
+---
+
+### 📈 **Fun Facts:**
+- 🔥 **40%** productivity boost with AI-powered development
+- 🌱 **Always learning** new technologies and best practices
+- 🎯 **Focus on** writing clean, testable, and maintainable code
+- 🤝 **Love collaborating** with other developers and sharing knowledge
+- ⚡ **Quick learner** who adapts to new tech stacks efficiently
+
+---
+
 **⭐ Crafted with 💚 by [Jackson Khuto](https://github.com/jackson951) | Always eager to learn and contribute**
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium%20Skin%20Tone.png" alt="Wave" width="30">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 </div>
