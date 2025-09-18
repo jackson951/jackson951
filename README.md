@@ -1,13 +1,20 @@
-# <div align="center">🚀 **Jackson Khuto** | Software Developer</div>
+# <div align="center">🚀 **Jackson Khuto** | Software Developer & Systems Analyst### **📋 Systems Analysis & Project Management**
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white&labelColor=1a1b27)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white&labelColor=1a1b27)
+![Microsoft Project](https://img.shields.io/badge/MS_Project-217346?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=1a1b27)
+![Visio](https://img.shields.io/badge/MS_Visio-3955A3?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=1a1b27)
+
+</div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Full-Stack+Developer;AI-Enhanced+Engineer;Cloud+Solutions+Builder;Passionate+Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Full-Stack+Developer;Systems+Analyst;AI-Enhanced+Engineer;Cloud+Solutions+Builder;Problem+Solver)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Digital%20Space&fontSize=28&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Where%20Innovation%20Meets%20Implementation&descAlignY=51&descAlign=50"/>
 
+[![Profile Views](https://komarev.com/ghpvc/?username=jackson951&label=Profile+Views&color=00f5ff&style=for-the-badge)](https://github.com/jackson951)
 [![GitHub Followers](https://img.shields.io/github/followers/jackson951?label=Followers&style=for-the-badge&color=00f5ff&labelColor=1a1b27)](https://github.com/jackson951)
-[![GitHub Stars](https://img.shields.io/github/stars/jackson951?label=Stars&style=for-the-badge&color=00f5ff&labelColor=1a1b27)](https://github.com/jackson951)
 [![Years Badge](https://badges.pufler.dev/years/jackson951?style=for-the-badge&color=00f5ff&labelColor=1a1b27)](https://github.com/jackson951)
 
 </div>
@@ -33,6 +40,7 @@ class JacksonKhuto extends Developer {
   get specialties() {
     return [
       "🎯 Full-Stack Web Development",
+      "📊 Systems Analysis & Design",
       "☁️ Cloud-Native Applications", 
       "🤖 AI-Powered Solutions",
       "⚡ Performance Optimization",
@@ -56,31 +64,37 @@ console.log("Ready to build something amazing! 🚀");
 <div align="center">
 <table>
 <tr>
-<td width="20%" align="center">
+<td width="16.6%" align="center">
 💻
-<br><strong>Frontend Craft</strong>
+<br><strong>Frontend Development</strong>
 <br><code>React • TypeScript • Next.js</code>
 <br><em>Responsive & Interactive UIs</em>
 </td>
-<td width="20%" align="center">
+<td width="16.6%" align="center">
 ⚙️
 <br><strong>Backend Engineering</strong>
 <br><code>.NET Core • Node.js • APIs</code>
 <br><em>Scalable Server Solutions</em>
 </td>
-<td width="20%" align="center">
+<td width="16.6%" align="center">
+📊
+<br><strong>Systems Analysis</strong>
+<br><code>Requirements • Design • Testing</code>
+<br><em>System Architecture & Planning</em>
+</td>
+<td width="16.6%" align="center">
 🗄️
 <br><strong>Database Management</strong>
 <br><code>Prisma • SQL • MongoDB</code>
 <br><em>Efficient Data Solutions</em>
 </td>
-<td width="20%" align="center">
+<td width="16.6%" align="center">
 ☁️
 <br><strong>Cloud Architecture</strong>
 <br><code>Azure • AWS • Docker</code>
 <br><em>Modern Deployment Solutions</em>
 </td>
-<td width="20%" align="center">
+<td width="16.6%" align="center">
 🤖
 <br><strong>AI Integration</strong>
 <br><code>GitHub Copilot • ML APIs</code>
@@ -140,14 +154,11 @@ console.log("Ready to build something amazing! 🚀");
 
 ---
 
-## 📊 **GitHub Overview**
+## 🎯 **Current Focus**
 
 <div align="center">
 
-![GitHub followers](https://img.shields.io/github/followers/jackson951?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/jackson951?style=social)
-
-**Active Developer | 3+ Years Experience | Full-Stack Enthusiast**
+**Active Developer & Systems Analyst | 3+ Years Experience | Solution-Oriented Professional**
 
 </div>
 
@@ -162,23 +173,23 @@ console.log("Ready to build something amazing! 🚀");
 <td align="center" width="33%">
 🌱
 <br><strong>Currently Learning</strong>
-<br>Advanced TypeScript Patterns
-<br>Microservices Architecture
-<br>GraphQL & tRPC
+<br>Advanced System Architecture
+<br>Microservices Design Patterns
+<br>DevOps & CI/CD Pipelines
 </td>
 <td align="center" width="33%">
 🔭
 <br><strong>Current Projects</strong>
+<br>Enterprise System Analysis
 <br>Full-Stack SaaS Applications
-<br>AI-Powered Web Tools
-<br>Cloud-Native Solutions
+<br>Cloud Migration Solutions
 </td>
 <td align="center" width="33%">
 👯
 <br><strong>Open to Collaborate</strong>
-<br>Open Source Projects
-<br>Innovative Web Apps
-<br>Developer Tools
+<br>System Design Projects
+<br>Full-Stack Applications
+<br>Business Process Analysis
 </td>
 </tr>
 </table>
@@ -204,9 +215,9 @@ console.log("Ready to build something amazing! 🚀");
 <br><em>Scalable cloud architectures</em>
 </td>
 <td align="center" width="25%">
-🤖
-<br><strong>AI-Enhanced Apps</strong>
-<br><em>Intelligent automation solutions</em>
+📊
+<br><strong>Systems Analysis</strong>
+<br><em>Requirements & process analysis</em>
 </td>
 <td align="center" width="25%">
 📚
@@ -219,7 +230,7 @@ console.log("Ready to build something amazing! 🚀");
 ### 💡 **What drives me:**
 > *"Every line of code is an opportunity to solve real-world problems and create meaningful impact."*
 
-**🎯 Currently exploring:** Advanced TypeScript patterns, Microservices architecture, and AI-driven development workflows
+**🎯 Currently exploring:** Advanced system architecture, microservices design patterns, and enterprise-level solution analysis
 
 </div>
 
@@ -247,11 +258,7 @@ console.log("Ready to build something amazing! 🚀");
 
 <div align="center" style="margin-top: 30px;">
 
-### 📊 **Quick Stats**
-
-![Profile Views](https://komarev.com/ghpvc/?username=jackson951&label=Profile+Views&color=00f5ff&style=for-the-badge&abbreviated=true)
-![Repositories](https://img.shields.io/badge/Repositories-Dynamic-00f5ff?style=for-the-badge&labelColor=1a1b27)
-![Commits](https://img.shields.io/badge/Total_Commits-500%2B-00f5ff?style=for-the-badge&labelColor=1a1b27)
+**Ready to analyze, design, and build exceptional solutions!**
 
 </div>
 
