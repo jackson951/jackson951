@@ -140,23 +140,14 @@ console.log("Ready to build something amazing! 🚀");
 
 ---
 
-## 📊 **GitHub Analytics**
+## 📊 **GitHub Overview**
 
 <div align="center">
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
+![GitHub followers](https://img.shields.io/github/followers/jackson951?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/jackson951?style=social)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jackson951&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=c9d1d9" alt="GitHub Stats"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jackson951&theme=tokyonight&hide_border=true&stroke=00f5ff&ring=00f5ff&fire=00f5ff&currStreakLabel=00f5ff&background=0d1117" alt="GitHub Streak"/>
-
-</div>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackson951&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9" alt="Top Languages"/>
-
-### **📈 Contribution Activity**
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jackson951&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f5ff&line=00f5ff&point=00f5ff" width="100%" alt="Contribution Graph"/>
+**Active Developer | 3+ Years Experience | Full-Stack Enthusiast**
 
 </div>
 
@@ -229,16 +220,6 @@ console.log("Ready to build something amazing! 🚀");
 > *"Every line of code is an opportunity to solve real-world problems and create meaningful impact."*
 
 **🎯 Currently exploring:** Advanced TypeScript patterns, Microservices architecture, and AI-driven development workflows
-
-</div>
-
----
-
-## 🏆 **GitHub Achievements**
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jackson951&theme=tokyonight&no-frame=true&row=1&column=6&margin-h=8&margin-w=8" alt="GitHub Trophies"/>
 
 </div>
 
