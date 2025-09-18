@@ -1,8 +1,3 @@
-Got it ✅ — you’d like me to refine your README so it’s **clean, professional, and visually appealing**, while removing **redundancy** and avoiding **GitHub stats/profile views clutter**. I’ll keep it structured, highlight your strengths, and make the UI neat.
-
-Here’s a **cleaned and improved version**:
-
----
 
 # Jackson Khuto
 
