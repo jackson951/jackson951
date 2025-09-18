@@ -158,7 +158,3 @@ I specialize in **analyzing complex business requirements** and **translating th
 </div>  
 
 ---
-
-✨ This version is **leaner**, **non-redundant**, and keeps the **UI clean** while maintaining a professional vibe.
-
-Would you like me to also **add a minimalist banner/cover image suggestion** (like a header graphic with your name & roles) so your README looks even more polished?
