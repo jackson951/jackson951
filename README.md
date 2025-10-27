@@ -12,7 +12,7 @@
 
 ## Professional Summary
 
-Full-stack software developer with 3+ years of professional experience architecting and delivering enterprise-grade web applications. I transform complex business challenges into elegant, scalable solutions through clean code and modern development practices. My expertise spans the entire development lifecycle—from database architecture and API design to responsive frontend interfaces and cloud deployment.
+Full-stack software developer with 3+ years of professional and academic experience architecting and delivering enterprise-grade web applications. I transform complex business challenges into elegant, scalable solutions through clean code and modern development practices. My expertise spans the entire development lifecycle—from database architecture and API design to responsive frontend interfaces and cloud deployment.
 
 I thrive in collaborative environments where innovation meets practical problem-solving, consistently delivering high-performance applications that exceed stakeholder expectations while maintaining rigorous code quality standards.
 
