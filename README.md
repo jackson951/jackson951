@@ -3,7 +3,7 @@
 
 **BSc Information Technology** | **Pretoria, South Africa**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackson-khuto-625360267/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackson-khuto-03533437b/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jacksonkhuto591@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/27661802747)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Jackson_Khuto)
@@ -139,7 +139,7 @@ I'm seeking opportunities with forward-thinking organizations where I can contri
 I'm available for full-time software development opportunities and open to discussing how I can contribute to your team's success.
 
 **📧 Email:** jacksonkhuto591@gmail.com  
-**💼 LinkedIn:** [linkedin.com/in/jackson-khuto-625360267](https://www.linkedin.com/in/jackson-khuto-625360267/)  
+**💼 LinkedIn:** [linkedin.com/in/jackson-khuto-625360267](https://www.linkedin.com/in/jackson-khuto-03533437b/)  
 **📱 WhatsApp:** [+27 66 180 2747](https://wa.me/27661802747)  
 **💬 Telegram:** [@Jackson_Khuto](https://t.me/Jackson_Khuto)  
 **📍 Location:** Pretoria, South Africa
