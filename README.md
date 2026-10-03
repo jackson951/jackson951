@@ -53,7 +53,7 @@ I work across the whole lifecycle — requirements, architecture, development, d
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,spring,dotnet&theme=dark" />
 
 **Data**<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma,supabase,sqlite&theme=dark" />
 
 **Cloud & DevOps**<br/>
 <img src="https://skillicons.dev/icons?i=azure,aws,docker,githubactions,git&theme=dark" />
@@ -79,67 +79,101 @@ I work across the whole lifecycle — requirements, architecture, development, d
 <td width="50%" valign="top">
 
 ### ⚙️ FlowForge
-`🚧 In progress`
+`🚧 In active development`
 
-Integration & workflow automation platform — connect services, define triggers and run multi-step workflows.
+Integration & workflow automation platform with a visual drag-and-drop workflow builder, background job processing and secure auth.
 
-**Stack:** NestJS · TypeScript · PostgreSQL · React
+**API:** NestJS · Prisma · BullMQ · Redis · JWT/Argon2 · Swagger · Pino<br/>
+**Web:** React · React Flow · TanStack Query · React Hook Form + Zod · Tailwind
 
-<a href="https://github.com/jackson951/flowforge-api"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github"/></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🏢 EnterpriseFlow
-`🧪 Architecture concept`
-
-Modular multi-tenant B2B SaaS platform: tenant isolation, per-tenant RBAC and a full business blueprint.
-
-**Stack:** React 19 · Vite · NestJS · Prisma
-
-<a href="https://github.com/jackson951/enterpriseflow"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github"/></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛒 StreetLuxCity
-`✅ Complete`
-
-E-commerce platform with JWT auth, layered architecture, documented REST APIs and unit tests.
-
-**Stack:** Java · Spring Boot · Spring Security · JPA/Hibernate · PostgreSQL
-
-<a href="https://github.com/jackson951/streetluxcity"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github"/></a>
+<a href="https://github.com/jackson951/forge-flow-api"><img src="https://img.shields.io/badge/API-181717?style=flat-square&logo=github"/></a>
+<a href="https://github.com/jackson951/flow-forge-web"><img src="https://img.shields.io/badge/Web-181717?style=flat-square&logo=github"/></a>
 
 </td>
 <td width="50%" valign="top">
-
-### 🗓️ FlexiLeave
-`✅ Complete`
-
-Leave management system — requests, approvals and leave balances by role.
-
-**Stack:** _add stack_
-
-<a href="https://github.com/jackson951/flexileave"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github"/></a>
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
 
 ### 🧠 StackMap
 `🚧 In progress`
 
-AI-powered codebase intelligence — explore and understand unfamiliar codebases using the Claude API.
+AI-powered codebase intelligence — connect GitHub repositories and ask natural-language questions about your code.
 
-<a href="https://github.com/jackson951/stackmap"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github"/></a>
+**Web:** Next.js · Supabase · Tailwind<br/>
+**API:** Express · Prisma · Claude API · Octokit · Swagger
+
+<a href="https://stackmap-8ipx.vercel.app/"><img src="https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel"/></a>
+<a href="https://stackmap-server.onrender.com/api/docs"><img src="https://img.shields.io/badge/API_Docs-85EA2D?style=flat-square&logo=swagger&logoColor=black"/></a>
+<a href="https://github.com/jackson951/stackmap"><img src="https://img.shields.io/badge/Web-181717?style=flat-square&logo=github"/></a>
+<a href="https://github.com/jackson951/Stackmap-Server"><img src="https://img.shields.io/badge/API-181717?style=flat-square&logo=github"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗓️ FlexiLeave
+`✅ Live`
+
+Full-stack leave management app — employee requests, approvals, dashboards, scheduled jobs and PDF/Excel exports.
+
+**Stack:** React · Node.js · Express · PostgreSQL · JWT · Recharts
+
+<a href="https://flexileave.vercel.app"><img src="https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel"/></a>
+<a href="https://github.com/jackson951/flexileave-app"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### ✍️ Document Signing App
+`✅ Complete`
+
+Upload, view and sign PDF documents in the browser with drawn signatures and account management.
+
+**Stack:** React · pdf-lib · PDF.js · Signature Pad · Tailwind
+
+<a href="https://github.com/jackson951/Document-Signing-App"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📡 Telemetry Management Platform
+`✅ Complete`
+
+REST API and web portal for tracking automation savings by project and client, with full CRUD, hosted on Azure.
+
+**Stack:** C# · ASP.NET Core (Web API + MVC) · SQL Server · Azure
+
+<a href="https://github.com/jackson951/Telemetry-Management-API-CRUD-operations"><img src="https://img.shields.io/badge/API-181717?style=flat-square&logo=github"/></a>
+<a href="https://github.com/jackson951/TELEMETRY-PORTAL-WITH-CRUD-CREATE-READ-UPDATE-DELETE-OPERATIONS"><img src="https://img.shields.io/badge/Portal-181717?style=flat-square&logo=github"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🧰 React Developer Utils
+`📚 Ongoing collection`
+
+Curated React hooks, utilities and components I use in production, with notes and patterns behind them.
+
+**Stack:** React · TypeScript
+
+<a href="https://github.com/jackson951/React-Developer-Utils"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github"/></a>
 
 </td>
 </tr>
 </table>
+
+<details>
+<summary><b>More projects</b></summary>
+<br/>
+
+| Project | Description | Stack |
+|---|---|---|
+| [Surveying App](https://github.com/jackson951/surveying-app) | Lifestyle survey app with real-time analytics | React · MUI · Node.js · Express · SQLite |
+| [Portfolio](https://github.com/jackson951/jackson-khuto-portfolio) | My personal website | TypeScript · [live](https://jackson-khuto-portfolio.vercel.app) |
+| [NWU Tech Trends Report](https://github.com/jackson951/NWU-TECH-TRENDS-POWERBI-REPORT) | Power BI report on technology trends | Power BI |
+
+</details>
 
 ---
 
@@ -153,6 +187,7 @@ AI-powered codebase intelligence — explore and understand unfamiliar codebases
 | **Data & Reporting** | SQL Server, PostgreSQL, Prisma, Excel exports, Power BI integration |
 | **Delivery** | IIS / Windows Server deployments, Docker, GitHub Actions, production support |
 | **Design** | System design, architecture documentation, multi-tenant SaaS patterns |
+| **AI** | Claude API integration, GitHub repository analysis |
 
 ---
 
@@ -162,7 +197,8 @@ AI-powered codebase intelligence — explore and understand unfamiliar codebases
 - [x] Secure authentication and authorisation
 - [ ] CI/CD pipelines on Azure with GitHub Actions
 - [ ] Production monitoring & observability
-- [ ] Multi-tenant SaaS architecture (EnterpriseFlow)
+- [ ] Background job processing & queues (BullMQ / Redis)
+- [ ] AI-assisted developer tooling with the Claude API
 
 ---
 
