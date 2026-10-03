@@ -1,275 +1,204 @@
+<!-- ===================== HEADER ===================== -->
 <div align="center">
 
-# 👋 Hi, I'm Jackson Khuto
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=200&section=header&text=Jackson%20Khuto&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Software%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
-### Enterprise Full-Stack Software Engineer
-
-**Building secure, scalable enterprise applications from architecture to production.**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=620&lines=Enterprise+web+applications+%7C+APIs+%7C+Workflows;Secure+auth%2C+SSO+%26+role-based+access+control;From+architecture+to+production+support;Currently+building+FlowForge+with+NestJS" alt="Typing SVG"/>
+</a>
 
 <p>
-<a href="https://www.linkedin.com/in/jackson-khuto-03533437b/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:jacksonkhuto591@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://wa.me/27661802747">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
+  <a href="https://jackson-khuto-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/jackson-khuto-03533437b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:jacksonkhuto591@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://wa.me/27661802747"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
-📍 Pretoria, South Africa
+<img src="https://komarev.com/ghpvc/?username=jackson951&style=flat-square&color=2563eb&label=Profile+views"/>
+
+📍 Gauteng, South Africa &nbsp;·&nbsp; 🎓 BSc Information Technology (NWU)
 
 </div>
 
 ---
 
-# About Me
+## 🧭 About Me
 
-I'm a **Full-Stack Software Engineer** passionate about building enterprise software that is secure, maintainable and scalable.
+```ts
+const jackson = {
+  role: "Full-Stack Software Engineer",
+  currently: "Graduate Software Developer @ Barloworld Equipment",
+  focus: ["Enterprise web apps", "Workflow automation", "Identity & access management"],
+  building: "FlowForge — an integration & workflow automation platform",
+  learning: ["Multi-tenant SaaS architecture", "CI/CD on Azure", "Production observability"],
+  principle: "Understand the business problem first, then design for the next developer.",
+};
+```
 
-I enjoy working across the entire software lifecycle—from requirements gathering and architecture through development, deployment and production support.
-
-My primary focus is designing systems that solve real business problems while remaining easy to maintain as they grow.
-
-Recently I've been working on enterprise workflow systems involving:
-
-- Enterprise approval workflows
-- Microsoft Entra ID Single Sign-On
-- Role-Based Access Control (RBAC)
-- SQL Server
-- REST APIs
-- Production deployments on IIS
-- Reporting and Excel exports
-- Architecture documentation
-- CI/CD planning
+I work across the whole lifecycle — requirements, architecture, development, deployment and production support. I care about software that is **secure by default**, **easy to change**, and **boring to run in production**.
 
 ---
 
-# Tech Stack
-
-## Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=java,cs,ts,js,python,html,css"/>
-
-</p>
-
----
-
-## Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
-
-</p>
-
-- React
-- TypeScript
-- Vite
-- Material UI
-
----
-
-## Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,dotnet"/>
-
-</p>
-
-- REST APIs
-- Authentication
-- Authorization
-- RBAC
-- Background Jobs
-- Swagger/OpenAPI
-
----
-
-## Databases
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis"/>
-
-</p>
-
-- SQL Server
-- PostgreSQL
-- Prisma ORM
-
----
-
-## Enterprise Technologies
-
-- Microsoft Entra ID
-- Microsoft Graph
-- SQL Server
-- IIS
-- Windows Server
-- Power BI
-- SharePoint
-- Power Apps
-- Power Automate
-
----
-
-## Cloud & DevOps
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=azure,aws,docker,githubactions,git"/>
-
-</p>
-
-- GitHub Actions
-- CI/CD
-- Docker
-- Azure
-- AWS
-
----
-
-# Enterprise Experience
-
-✔ Enterprise approval workflows
-
-✔ Microsoft Entra ID SSO
-
-✔ Database-driven RBAC
-
-✔ Audit Logging
-
-✔ Workflow Engines
-
-✔ SQL Server
-
-✔ API Security
-
-✔ Excel Report Generation
-
-✔ IIS Deployment
-
-✔ Production Support
-
-✔ Architecture Documentation
-
-✔ System Design
-
-✔ Enterprise Integrations
-
----
-
-# Featured Project
-
-## ATAI (Application to Add Inventory)
-
-Enterprise inventory approval platform developed for internal business workflow automation.
-
-### Highlights
-
-- Enterprise approval workflows
-- Multi-level approval matrix
-- Microsoft Entra ID authentication
-- Role-based authorization
-- SQL Server backend
-- React frontend
-- Node.js & Express APIs
-- Excel report generation
-- Audit logging
-- IIS deployment
-- Production-ready architecture
-- Reporting integration strategy with Power BI
-
----
-
-# What I Enjoy Building
-
-- Enterprise Web Applications
-
-- Backend APIs
-
-- Workflow Systems
-
-- Identity & Access Management
-
-- Multi-Tenant Platforms
-
-- Secure Authentication Systems
-
-- Reporting Platforms
-
-- Cloud Applications
-
-- Business Process Automation
-
----
-
-# Current Focus
-
-- Enterprise Software Architecture
-
-- CI/CD Pipelines
-
-- Azure
-
-- Power Platform
-
-- Production Monitoring
-
-- Secure System Design
-
----
-
-# GitHub Stats
+## 🛠️ Tech Stack
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=jackson951&show_icons=true&theme=github_dark)
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=ts,js,cs,java,python,html,css&theme=dark" />
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=jackson951&theme=github-dark)
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,materialui&theme=dark" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jackson951&layout=compact&theme=github_dark)
+**Backend**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,spring,dotnet&theme=dark" />
+
+**Data**<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma&theme=dark" />
+
+**Cloud & DevOps**<br/>
+<img src="https://skillicons.dev/icons?i=azure,aws,docker,githubactions,git&theme=dark" />
+
+**Microsoft Ecosystem**<br/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Entra_ID-0078D4?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Graph-0078D4?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_Apps-742774?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logoColor=black"/>
+<img src="https://img.shields.io/badge/SharePoint-038387?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/IIS-5E5E5E?style=flat-square&logoColor=white"/>
 
 </div>
 
 ---
 
-# Philosophy
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ FlowForge
+`🚧 In progress`
+
+Integration & workflow automation platform — connect services, define triggers and run multi-step workflows.
+
+**Stack:** NestJS · TypeScript · PostgreSQL · React
+
+<a href="https://github.com/jackson951/flowforge-api"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🏢 EnterpriseFlow
+`🧪 Architecture concept`
+
+Modular multi-tenant B2B SaaS platform: tenant isolation, per-tenant RBAC and a full business blueprint.
+
+**Stack:** React 19 · Vite · NestJS · Prisma
+
+<a href="https://github.com/jackson951/enterpriseflow"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 StreetLuxCity
+`✅ Complete`
+
+E-commerce platform with JWT auth, layered architecture, documented REST APIs and unit tests.
+
+**Stack:** Java · Spring Boot · Spring Security · JPA/Hibernate · PostgreSQL
+
+<a href="https://github.com/jackson951/streetluxcity"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🗓️ FlexiLeave
+`✅ Complete`
+
+Leave management system — requests, approvals and leave balances by role.
+
+**Stack:** _add stack_
+
+<a href="https://github.com/jackson951/flexileave"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github"/></a>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🧠 StackMap
+`🚧 In progress`
+
+AI-powered codebase intelligence — explore and understand unfamiliar codebases using the Claude API.
+
+<a href="https://github.com/jackson951/stackmap"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github"/></a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧩 What I Build
+
+| Area | Experience |
+|---|---|
+| **Identity & Access** | Microsoft Entra ID SSO, JWT, database-driven RBAC, API security |
+| **Workflows** | Multi-level approval workflows, workflow engines, audit logging |
+| **Backend** | REST APIs, background jobs, Swagger/OpenAPI, layered architecture |
+| **Data & Reporting** | SQL Server, PostgreSQL, Prisma, Excel exports, Power BI integration |
+| **Delivery** | IIS / Windows Server deployments, Docker, GitHub Actions, production support |
+| **Design** | System design, architecture documentation, multi-tenant SaaS patterns |
+
+---
+
+## 🎯 Current Focus
+
+- [x] Enterprise workflow & approval systems
+- [x] Secure authentication and authorisation
+- [ ] CI/CD pipelines on Azure with GitHub Actions
+- [ ] Production monitoring & observability
+- [ ] Multi-tenant SaaS architecture (EnterpriseFlow)
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=jackson951&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackson951&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<img src="https://streak-stats.demolab.com?user=jackson951&theme=tokyonight&hide_border=true" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jackson951&theme=tokyo-night&hide_border=true&area=true" />
+
+<!-- Contribution snake: needs .github/workflows/snake.yml (see below) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jackson951/jackson951/output/github-snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/jackson951/jackson951/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 💡 Philosophy
 
 > Good software isn't just about writing code.
-
-It's about understanding the business problem, designing the right solution, building it cleanly, deploying it safely, and supporting it in production.
-
----
-
-# Let's Connect
-
-📧 **Email**
-
-jacksonkhuto591@gmail.com
-
-💼 **LinkedIn**
-
-https://www.linkedin.com/in/jackson-khuto-03533437b/
-
-📱 **WhatsApp**
-
-+27 66 180 2747
-
----
+>
+> It's about understanding the business problem, designing the right solution, building it cleanly, deploying it safely, and supporting it in production.
 
 <div align="center">
 
-*"Build software that your future self—and your teammates—will thank you for."*
+<br/>
 
-![](https://komarev.com/ghpvc/?username=jackson951&style=for-the-badge)
+*"Build software that your future self — and your teammates — will thank you for."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:0f172a&height=100&section=footer" width="100%"/>
 
 </div>
